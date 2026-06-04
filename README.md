@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**gabzska/gabzska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Gabrielly Mathias.
 
-Here are some ideas to get you started:
+🏅 Medalhista em Olimpíadas Acadêmicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante do Ensino Médio
+
+💻 Aspirante a Engenheira da Computação
+
+Sou apaixonada por tecnologia, matemática e inovação. Desenvovo projetos que conecta programação com a área da saúde. Tenho interesse em Inteligência Artificial, Robótica, Engenharia de Software, Sistemas Embarcados e desenvolvimento de soluções tecnológicas para impacto social.
+
+## Destaques
+
+🏅 Medalhas em Olimpíadas Acadêmicas
+
+📚 Participação em competições de Matemática e Ciências
+
+💡 Desenvolvimento de projetos voltados para tecnologia e acessibilidade
+
+🚀 Construindo conhecimentos em programação e computação
+
+## Áreas de Interesse
+
+- Inteligência Artificial
+- Engenharia da Computação
+- Robótica
+- Sistemas Embarcados
+- Programação em Python
+- Ciência de Dados
+- Cibersegurança
+- Matemática Aplicada
+
+## Objetivo
+
+Ingressar em Engenharia da Computação e contribuir para o desenvolvimento de tecnologias inovadoras que gerem impacto positivo na sociedade.
