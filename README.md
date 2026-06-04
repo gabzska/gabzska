@@ -32,4 +32,4 @@ Sou apaixonada por tecnologia, matemática e inovação. Desenvovo projetos que 
 
 ## Objetivo
 
-Ingressar em Engenharia da Computação e contribuir para o desenvolvimento de tecnologias inovadoras que gerem impacto positivo na sociedade.
+Ingressar em Engenharia da Computação e contribuir para o desenvolvimento de tecnologias inovadoras que gerem impacto positivo na saúde das pessoas.
